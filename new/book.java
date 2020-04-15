@@ -1,0 +1,6 @@
+class book{
+
+    int a;
+
+
+}
